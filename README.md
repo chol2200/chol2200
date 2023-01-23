@@ -1,4 +1,6 @@
-### Hi there 👋
+### Tjena! 👋
+
+Jag heter Christoffer och studerar webbutveckling på Mittuniversitetet. 👨‍💻
 
 <!--
 **chol2200/chol2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
