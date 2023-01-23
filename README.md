@@ -2,6 +2,8 @@
 
 Jag heter Christoffer och studerar webbutveckling på Mittuniversitetet. 👨‍💻
 
+URL till min profil: https://github.com/chol2200/ :octocat:
+
 <!--
 **chol2200/chol2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
